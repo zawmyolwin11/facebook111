@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+@media (max-width: 760px) {
+    body {
+        background: #2d89ab;
+    }
+
+    h1 {
+        font-size: 3rem;
+        color: #79e11d;
+    }
+} 
+
+@media (max-width: 990px) {
+    body {
+        background: #a31a6c;
+    }
+
+    h1 {
+        font-size: 4rem;
+        color: #e3913f;
+    }
+}
